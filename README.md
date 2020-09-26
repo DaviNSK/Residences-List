@@ -3,7 +3,7 @@ Como rodar a aplicaçāo:
 
 2- Rode o comando <b>npm run server</b>, para a api fake JSON começar a rodar.
 
-3- Deixe o comando sempre rodando e em seguida abra uma nova janela no terminal e digite o <b>comando npm run start</b> para o projeto iniciar.
+3- Deixe o comando sempre rodando e em seguida abra uma nova janela no terminal e digite o comando <b>npm run start</b> para o projeto iniciar.
 
 4- seu projeto ja deve está rodando tudo perfeitamente, qualquer dúvida pode me manda uma mensagem.
 
