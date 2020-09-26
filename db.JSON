@@ -1,0 +1,207 @@
+{
+  "residences": [
+
+  ],
+  "statesUS": [
+    {
+      "name": "Wyoming",
+      "value": "US-WY"
+    },
+    {
+      "name": "Wisconsin",
+      "value": "US-WI"
+    },
+    {
+      "name": "West Virginia",
+      "value": "US-WV"
+    },
+    {
+      "name": "Washington",
+      "value": "US-WA"
+    },
+    {
+      "name": "Virginia",
+      "value": "US-VA"
+    },
+    {
+      "name": "Vermonte",
+      "value": "US-VT"
+    },
+    {
+      "name": "Utah",
+      "value": "US-UT"
+    },
+    {
+      "name": "Texas",
+      "value": "US-TX"
+    },
+    {
+      "name": "Tennessee",
+      "value": "US-TN"
+    },
+    {
+      "name": "South Dakota",
+      "value": "US-SD"
+    },
+    {
+      "name": "South Carolina",
+      "value": "US-SC"
+    },
+    {
+      "name": "Rhode Island",
+      "value": "US-RI"
+    },
+    {
+      "name": "Pennsylvania",
+      "value": "US-PA"
+    },
+    {
+      "name": "Oregon",
+      "value": "US-OR"
+    },
+    {
+      "name": "Oklahoma",
+      "value": "US-OK"
+    },
+    {
+      "name": "Ohio",
+      "value": "US-OH"
+    },
+    {
+      "name": "North Dakota",
+      "value": "US-ND"
+    },
+    {
+      "name": "North Carolina",
+      "value": "US-NC"
+    },
+    {
+      "name": "New York",
+      "value": "US-NY"
+    },
+    {
+      "name": "New México",
+      "value": "US-NM"
+    },
+    {
+      "name": "New Jersey",
+      "value": "US-NJ"
+    },
+    {
+      "name": "New Hampshire",
+      "value": "US-NH"
+    },
+    {
+      "name": "Nevada",
+      "value": "US-NV"
+    },
+    {
+      "name": "Nebraska",
+      "value": "US-NE"
+    },
+    {
+      "name": "Montana",
+      "value": "US-MT"
+    },
+    {
+      "name": "Missouri",
+      "value": "US-MO"
+    },
+    {
+      "name": "Mississippi",
+      "value": "US-MS"
+    },
+    {
+      "name": "Minnesota",
+      "value": "US-MN"
+    },
+    {
+      "name": "Michigan",
+      "value": "US-MI"
+    },
+    {
+      "name": "Massachusetts",
+      "value": "US-MA"
+    },
+    {
+      "name": "Maryland",
+      "value": "US-MD"
+    },
+    {
+      "name": "Maine",
+      "value": "US-ME"
+    },
+    {
+      "name": "Louisiania",
+      "value": "US-LA"
+    },
+    {
+      "name": "Kentucky",
+      "value": "US-KY"
+    },
+    {
+      "name": "Kansas",
+      "value": "US-KS"
+    },
+    {
+      "name": "Iowa",
+      "value": "US-IA"
+    },
+    {
+      "name": "Indiana",
+      "value": "US-IN"
+    },
+    {
+      "name": "Ilinóis",
+      "value": "US-IL"
+    },
+    {
+      "name": "Idaho",
+      "value": "US-ID"
+    },
+    {
+      "name": "Hawaii",
+      "value": "US-HI"
+    },
+    {
+      "name": "Georgia",
+      "value": "US-GA"
+    },
+    {
+      "name": "Florida",
+      "value": "US-FL"
+    },
+    {
+      "name": "Delaware",
+      "value": "US-DE"
+    },
+    {
+      "name": "Connecticut",
+      "value": "US-CT"
+    },
+    {
+      "name": "Colorado",
+      "value": "US-CO"
+    },
+    {
+      "name": "South Carolina",
+      "value": "US-CA"
+    },
+    {
+      "name": "Arkansas",
+      "value": "US-AR"
+    },
+    {
+      "name": "Arizona",
+      "value": "US-AZ"
+    },
+    {
+      "name": "Alaska",
+      "value": "US-AK"
+    },
+    {
+      "name": "Alabama",
+      "value": "US-AL"
+    }
+  ]
+}
